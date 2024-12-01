@@ -1,2 +1,2 @@
-# FiM python interpretator
+# Exe files parser
  
